@@ -22,3 +22,5 @@ node_modules/
 
 # Ignore build files
 dist/
+git add .
+git commit -m "Add files previously ignored"
